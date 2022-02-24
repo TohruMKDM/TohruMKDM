@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TohruMKDM
-- 👀 I’m interested in Lua, C#, and Python.
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Discord Bot Projects
+- 👀 I’m interested in: Lua, C#, and Python
+- 🌱 I’m currently learning: Javascript
+- 💞️ I’m looking to collaborate on: Projects that interact with discord's API
 - 📫 How to reach me: admin@ikaros.pw
